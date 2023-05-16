@@ -1,0 +1,11 @@
+/home/rim/ceri-m1-techniques-de-test/src/main/java/fr/univavignon/pokedex/api/IPokemonMetadataProvider.java
+/home/rim/ceri-m1-techniques-de-test/src/main/java/fr/univavignon/pokedex/api/Pokemon.java
+/home/rim/ceri-m1-techniques-de-test/src/main/java/fr/univavignon/pokedex/api/Team.java
+/home/rim/ceri-m1-techniques-de-test/src/main/java/fr/univavignon/pokedex/api/IPokemonFactory.java
+/home/rim/ceri-m1-techniques-de-test/src/main/java/fr/univavignon/pokedex/api/PokemonTrainer.java
+/home/rim/ceri-m1-techniques-de-test/src/main/java/fr/univavignon/pokedex/api/PokedexException.java
+/home/rim/ceri-m1-techniques-de-test/src/main/java/fr/univavignon/pokedex/api/IPokedexFactory.java
+/home/rim/ceri-m1-techniques-de-test/src/main/java/fr/univavignon/pokedex/api/PokemonMetadata.java
+/home/rim/ceri-m1-techniques-de-test/src/main/java/fr/univavignon/pokedex/api/PokemonComparators.java
+/home/rim/ceri-m1-techniques-de-test/src/main/java/fr/univavignon/pokedex/api/IPokemonTrainerFactory.java
+/home/rim/ceri-m1-techniques-de-test/src/main/java/fr/univavignon/pokedex/api/IPokedex.java
